@@ -1,3 +1,3 @@
 ### Testing some image enhancement techniques
 
-<img src="images/doc_color_corrected.png">
+<img src="images/dog_color_corrected.png">
