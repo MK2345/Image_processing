@@ -15,7 +15,7 @@ Correction of geometric distortions that can be caused by camera lenses or persp
 #### Deconvolution
 Mathematical technique for sharpening images by reversing the blur function
 
-<img src="images/dog_deconv.png">
+<img src="images/doc_deconv.png">
 
 #### Super-Resolution
 Techniques for increasing the image resolution beyond the original recording resolution.
